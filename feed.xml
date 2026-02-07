@@ -17,7 +17,7 @@
         <link href="https://asoc-aidemar.github.io/podcast-site/mujeres-con-discapacidad.html"/>
         <id>https://asoc-aidemar.github.io/podcast-site/mujeres-con-discapacidad.html</id>
         <media:content url="https://asoc-aidemar.github.io/podcast-site/media/posts/8/mujerYDiscapacidad-crop.jpeg" medium="image" />
-            <category term="Reflexión"/>
+            <category term="Reflexiones"/>
             <category term="Actualidad"/>
 
         <updated>2024-05-03T21:57:00+02:00</updated>
@@ -43,7 +43,7 @@
         <link href="https://asoc-aidemar.github.io/podcast-site/entrevista-a-sonia-ruiz-escribano-y-nacho-abad.html"/>
         <id>https://asoc-aidemar.github.io/podcast-site/entrevista-a-sonia-ruiz-escribano-y-nacho-abad.html</id>
         <media:content url="https://asoc-aidemar.github.io/podcast-site/media/posts/6/podcast-hero.png" medium="image" />
-            <category term="Entrevista"/>
+            <category term="Entrevistas"/>
             <category term="Deporte"/>
 
         <updated>2023-11-17T19:11:00+01:00</updated>
@@ -69,7 +69,7 @@
         <link href="https://asoc-aidemar.github.io/podcast-site/etica-y-sensibilizacion.html"/>
         <id>https://asoc-aidemar.github.io/podcast-site/etica-y-sensibilizacion.html</id>
         <media:content url="https://asoc-aidemar.github.io/podcast-site/media/posts/7/musica.webp" medium="image" />
-            <category term="Reflexión"/>
+            <category term="Reflexiones"/>
             <category term="Actualidad"/>
 
         <updated>2023-10-20T14:22:00+02:00</updated>
@@ -95,7 +95,7 @@
         <link href="https://asoc-aidemar.github.io/podcast-site/magazine.html"/>
         <id>https://asoc-aidemar.github.io/podcast-site/magazine.html</id>
         <media:content url="https://asoc-aidemar.github.io/podcast-site/media/posts/2/image-edited.jpeg" medium="image" />
-            <category term="Reflexión"/>
+            <category term="Reflexiones"/>
             <category term="Bullying"/>
 
         <updated>2023-06-07T22:42:00+02:00</updated>
