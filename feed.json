@@ -11,6 +11,57 @@
     },
     "items": [
         {
+            "id": "https://asoc-aidemar.github.io/podcast-site/mujeres-con-discapacidad.html",
+            "url": "https://asoc-aidemar.github.io/podcast-site/mujeres-con-discapacidad.html",
+            "title": "Mujeres con discapacidad",
+            "summary": "En esta ocasión, las mujeres son las protagonistas hablándonos de temas muy interesantes ligados a su discapacidad: relaciones sociales, personales, trabajo, ser madres…. Escúchalo aquí: iVoox<svg class=\"ti ti-external-link\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><g><path d=\"M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6\" /><path d=\"M11 13l9 -9\" /><path d=\"M15 4h5v5\" /></g></svg>",
+            "content_html": "<p>En esta ocasión, las mujeres son las protagonistas hablándonos de temas muy interesantes ligados a su discapacidad: relaciones sociales, personales, trabajo, ser madres….</p>\n<p>Escúchalo aquí:<br><a href=\"https://www.ivoox.com/asi-te-lo-contamos-03-mayo-24-audios-mp3_rf_128392739_1.html\" target=\"_blank\" rel=\"noopener noreferrer\">iVoox<svg class=\"ti ti-external-link\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><g><path d=\"M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6\" /><path d=\"M11 13l9 -9\" /><path d=\"M15 4h5v5\" /></g></svg></a></p>",
+            "image": "https://asoc-aidemar.github.io/podcast-site/media/posts/8/mujerYDiscapacidad-crop.jpeg",
+            "author": {
+                "name": "Rosana Ayala"
+            },
+            "tags": [
+                   "Reflexión",
+                   "Actualidad"
+            ],
+            "date_published": "2024-05-03T21:57:00+02:00",
+            "date_modified": "2026-02-07T22:00:56+01:00"
+        },
+        {
+            "id": "https://asoc-aidemar.github.io/podcast-site/entrevista-a-sonia-ruiz-escribano-y-nacho-abad.html",
+            "url": "https://asoc-aidemar.github.io/podcast-site/entrevista-a-sonia-ruiz-escribano-y-nacho-abad.html",
+            "title": "Entrevista a Sonia Ruiz Escribano y Nacho Abad",
+            "summary": "Los chicos y chicas del Taller Avanza de la Asociación AIDEMAR, hoy entrevistan a Sonia Ruiz Escribano, jugadora y entrenadora de baloncesto en silla de ruedas y diputada por el Partido Popular en la Asamblea Regional de Murcia y con el deportista y secretario de&hellip;",
+            "content_html": "<p>Los chicos y chicas del Taller Avanza de la Asociación AIDEMAR, hoy entrevistan a Sonia Ruiz Escribano, jugadora y entrenadora de baloncesto en silla de ruedas y diputada por el Partido Popular en la Asamblea Regional de Murcia y con el deportista y secretario de la asociación Blife, Nacho Abad.</p>\n<p>Escúchalo aquí:<br><a href=\"https://www.ivoox.com/taller-avanza-aidemar-17-11-23-audios-mp3_rf_119634231_1.html\" target=\"_blank\" rel=\"noopener noreferrer\">iVoox<svg class=\"ti ti-external-link\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><g><path d=\"M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6\" /><path d=\"M11 13l9 -9\" /><path d=\"M15 4h5v5\" /></g></svg></a></p>",
+            "image": "https://asoc-aidemar.github.io/podcast-site/media/posts/6/podcast-hero.png",
+            "author": {
+                "name": "Aidemar"
+            },
+            "tags": [
+                   "Entrevista",
+                   "Deporte"
+            ],
+            "date_published": "2023-11-17T19:11:00+01:00",
+            "date_modified": "2026-02-07T19:39:11+01:00"
+        },
+        {
+            "id": "https://asoc-aidemar.github.io/podcast-site/etica-y-sensibilizacion.html",
+            "url": "https://asoc-aidemar.github.io/podcast-site/etica-y-sensibilizacion.html",
+            "title": "Ética y Sensibilización",
+            "summary": "Los chicos y chicas del Taller Avanza de Aidemar, visitan los estudios de la radio municipal para comentar los Días Mundiales e Internacionales de la jornada y lo que significa para ellos. Escúchalo aquí: iVoox<svg class=\"ti ti-external-link\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><g><path d=\"M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6\" /><path d=\"M11 13l9 -9\" /><path d=\"M15 4h5v5\" /></g></svg>",
+            "content_html": "<p>Los chicos y chicas del Taller Avanza de Aidemar, visitan los estudios de la radio municipal para comentar los Días Mundiales e Internacionales de la jornada y lo que significa para ellos.</p>\n<p>Escúchalo aquí:<br><a href=\"https://www.ivoox.com/taller-avanza-aidemar-20-10-23-audios-mp3_rf_118097736_1.html\" target=\"_blank\" rel=\"noopener noreferrer\">iVoox<svg class=\"ti ti-external-link\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><g><path d=\"M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6\" /><path d=\"M11 13l9 -9\" /><path d=\"M15 4h5v5\" /></g></svg></a></p>",
+            "image": "https://asoc-aidemar.github.io/podcast-site/media/posts/7/musica.webp",
+            "author": {
+                "name": "Aidemar"
+            },
+            "tags": [
+                   "Reflexión",
+                   "Actualidad"
+            ],
+            "date_published": "2023-10-20T14:22:00+02:00",
+            "date_modified": "2026-02-07T21:47:09+01:00"
+        },
+        {
             "id": "https://asoc-aidemar.github.io/podcast-site/magazine.html",
             "url": "https://asoc-aidemar.github.io/podcast-site/magazine.html",
             "title": "Bullying y discapacidad",
@@ -21,10 +72,11 @@
                 "name": "Aidemar"
             },
             "tags": [
+                   "Reflexión",
                    "Bullying"
             ],
             "date_published": "2023-06-07T22:42:00+02:00",
-            "date_modified": "2026-02-07T16:47:22+01:00"
+            "date_modified": "2026-02-07T21:47:40+01:00"
         }
     ]
 }
