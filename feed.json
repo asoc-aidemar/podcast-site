@@ -10,5 +10,21 @@
         "name": "Aidemar"
     },
     "items": [
+        {
+            "id": "https://podcast.aidemar.com/presentacion-oficial.html",
+            "url": "https://podcast.aidemar.com/presentacion-oficial.html",
+            "title": "Presentación oficial",
+            "summary": "Aprovechando la visita al CDASP de 7Region de Murcia para la grabación de su programa Corazones solidarios, damos a conocer el proyecto Podcast, donde los integrantes del taller Avanz@, van a poner voz a todas las cosas que les importan. Porque entre todos una sociedad&hellip;",
+            "content_html": "<p>Aprovechando la visita al CDASP de 7Region de Murcia para la grabación de su programa Corazones solidarios, damos a conocer el proyecto Podcast, donde los integrantes del taller Avanz@, van a poner voz a todas las cosas que les importan.<br><br>Porque entre todos una sociedad mas inclusiva es posible.</p>\n<p>Así que, si tienes cosas importantes que contar, ponte en contacto con nosotros y lo hacemos juntos.</p>\n<p>Dale al play y disfruta de este video tan chulo, gracias a 7Region de Murcia:</p>\n<p><a href=\"https://youtu.be/CQ3QGwAOm2k\" target=\"_blank\" rel=\"noopener noreferrer\">Ver en YouTube</a></p>",
+            "image": "https://podcast.aidemar.com/media/posts/9/caratula.jpg",
+            "author": {
+                "name": "Aidemar"
+            },
+            "tags": [
+                   "Actualidad"
+            ],
+            "date_published": "2026-04-29T13:20:47+02:00",
+            "date_modified": "2026-04-29T13:25:16+02:00"
+        }
     ]
 }

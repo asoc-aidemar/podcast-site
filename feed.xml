@@ -3,10 +3,37 @@
     <title>El podcast de Aidemar</title>
     <link href="https://podcast.aidemar.com/feed.xml" rel="self" />
     <link href="https://podcast.aidemar.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-04-29T13:25:16+02:00</updated>
     <author>
         <name>Aidemar</name>
     </author>
     <id>https://podcast.aidemar.com</id>
 
+    <entry>
+        <title>Presentación oficial</title>
+        <author>
+            <name>Aidemar</name>
+        </author>
+        <link href="https://podcast.aidemar.com/presentacion-oficial.html"/>
+        <id>https://podcast.aidemar.com/presentacion-oficial.html</id>
+        <media:content url="https://podcast.aidemar.com/media/posts/9/caratula.jpg" medium="image" />
+            <category term="Actualidad"/>
+
+        <updated>2026-04-29T13:20:47+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://podcast.aidemar.com/media/posts/9/caratula.jpg" alt="" />
+                    Aprovechando la visita al CDASP de 7Region de Murcia para la grabación de su programa Corazones solidarios, damos a conocer el proyecto Podcast, donde los integrantes del taller Avanz@, van a poner voz a todas las cosas que les importan. Porque entre todos una sociedad&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://podcast.aidemar.com/media/posts/9/caratula.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Aprovechando la visita al CDASP de 7Region de Murcia para la grabación de su programa Corazones solidarios, damos a conocer el proyecto Podcast, donde los integrantes del taller Avanz@, van a poner voz a todas las cosas que les importan.<br><br>Porque entre todos una sociedad mas inclusiva es posible.</p>
+<p>Así que, si tienes cosas importantes que contar, ponte en contacto con nosotros y lo hacemos juntos.</p>
+<p>Dale al play y disfruta de este video tan chulo, gracias a 7Region de Murcia:</p>
+<p><a href="https://youtu.be/CQ3QGwAOm2k" target="_blank" rel="noopener noreferrer">Ver en YouTube</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
